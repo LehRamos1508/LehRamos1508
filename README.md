@@ -29,7 +29,7 @@
 
 ### 🌟 GitHub Stats
 ![Alexsander's GitHub stats](https://github-readme-stats.vercel.app/api?username=LehRamos1508&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehRamos1508&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehRamos1508&layout=compact&theme=dark&count_private=true&token=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)
 
 
 ### 💡 Wisdom Quote
