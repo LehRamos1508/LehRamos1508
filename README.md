@@ -29,6 +29,8 @@
 
 ### 🌟 GitHub Stats
 ![Alexsander's GitHub stats](https://github-readme-stats.vercel.app/api?username=LehRamos1508&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehRamos1508&layout=compact&theme=dark)
+
 
 ### 💡 Wisdom Quote
 > "O coração do homem pode fazer planos, mas a resposta certa dos lábios vem do Senhor." – Provérbios 16:1
