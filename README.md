@@ -6,7 +6,7 @@
 - 💼 Looking for an internship opportunity where I can contribute, grow, and apply the skills I've gained so far.
 
 ### 🌐 Contact
-- 📧 **Email**: alexsander1508@gmail.com
+- 📧 **Email**: alexsanderf1508@gmail.com
 
 ---
 
